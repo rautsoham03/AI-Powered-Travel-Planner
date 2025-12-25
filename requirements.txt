@@ -1,0 +1,8 @@
+
+streamlit==1.32.2
+requests==2.31.0
+serpapi==0.1.5
+airportsdata==20240701
+fpdf==1.7.2
+streamlit-lottie==0.0.5
+python-dateutil==2.8.2
