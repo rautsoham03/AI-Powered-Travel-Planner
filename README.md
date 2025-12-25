@@ -84,11 +84,16 @@ The application combines **real-time data APIs**, **large language models**, and
 ### 1️⃣ Clone the Repository
 git clone https://github.com//AI-Powered-Travel-Planner.git
 cd AI-Powered-Travel-Planner
+
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 ### 3️⃣ Add API Keys
 Inside app.py, replace:
+
 SERPAPI_KEY = "YOUR_SERPAPI_KEY"
+
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
+
 ### 4️⃣ Run the Application
 streamlit run nne.py
