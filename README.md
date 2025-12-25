@@ -73,14 +73,8 @@ The application combines **real-time data APIs**, **large language models**, and
 
 ## 📂 Project Structure
 
-AI-Powered-Travel-Planner/
-│
-├── nne.py
-│ → Main Streamlit application
-│
-├── requirements.txt
-│
-├── README.md
+<img width="278" height="118" alt="image" src="https://github.com/user-attachments/assets/0d6a6715-4777-4cbf-9780-73dbc2077029" />
+
 
 
 ---
